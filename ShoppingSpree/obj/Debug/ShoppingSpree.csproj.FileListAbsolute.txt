@@ -1,0 +1,7 @@
+C:\Users\biggi\Desktop\ShoppingSpree\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+C:\Users\biggi\Desktop\ShoppingSpree\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+C:\Users\biggi\Desktop\ShoppingSpree\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+C:\Users\biggi\Desktop\ShoppingSpree\ShoppingSpree\obj\Debug\ShoppingSpree.csprojAssemblyReference.cache
+C:\Users\biggi\Desktop\ShoppingSpree\ShoppingSpree\obj\Debug\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\biggi\Desktop\ShoppingSpree\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+C:\Users\biggi\Desktop\ShoppingSpree\ShoppingSpree\obj\Debug\ShoppingSpree.pdb
